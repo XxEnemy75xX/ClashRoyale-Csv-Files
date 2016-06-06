@@ -1,3 +1,1 @@
-CocSharp
-Open with VisualStudio
-Project by Ultrapowa
+Open with VisualStudio     By Ultrapowa
