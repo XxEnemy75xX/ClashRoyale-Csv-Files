@@ -1,1 +1,1 @@
-Open with VisualStudio     By Ultrapowa
+CSV FILES OF CLASH ROYALE
